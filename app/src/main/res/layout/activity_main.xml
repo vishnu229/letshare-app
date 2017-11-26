@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:weightSum="1"
+    android:id="@+id/lr">
+
+
+    <EditText
+        android:id="@+id/from"
+        android:layout_width="505dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center_horizontal"
+        android:width="0dip"
+        android:editable="false"
+        android:hint="From Location"
+        android:selectAllOnFocus="false"
+        android:singleLine="false"
+        android:textAlignment="center"
+        android:textAppearance="@android:style/TextAppearance"
+        android:visibility="visible"
+        />
+
+    <EditText
+        android:id="@+id/to"
+        android:layout_width="505dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:editable="false"
+        android:hint="To Location"
+        android:lineSpacingExtra="30sp"
+        android:textAlignment="center"
+
+        />
+
+    <Spinner
+        android:id="@+id/vehicle"
+        android:layout_width="505dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center_horizontal"
+        android:entries="@array/vehicle_arrays"
+        android:prompt="@string/vehicle_prompt"
+        android:textAlignment="center"
+        />
+
+    <EditText
+        android:id="@+id/date"
+        android:layout_width="505dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center_horizontal"
+        android:clickable="true"
+        android:editable="false"
+        android:hint="Date"
+        android:textAlignment="center"
+        />
+
+    <EditText
+        android:id="@+id/time"
+        android:layout_width="505dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center_horizontal"
+        android:clickable="true"
+        android:editable="false"
+        android:hint="Time"
+        android:textAlignment="center"
+        />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="505dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/titlebackgroundcolor"
+
+        android:text="Share Ride"
+        android:textColor="@color/white"
+
+        />
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" />
+
+</LinearLayout>

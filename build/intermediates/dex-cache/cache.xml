@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vishng/.android/build-cache/61f8df073b37ac8e9900d3aae20f7683c92d25f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/vishng/Documents/letshare/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97aefdaa06b904fa39ff57bba0d88ba37893ff3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vishng/.android/build-cache/5d9680c1178caa7a1fe3b3e1d5a9fcc14d2f4569/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/vishng/Documents/letshare/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8245babf19848ab6ea66a076cd611bd2b099b35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vishng/Documents/letshare/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad9667c2d0245b1fe10463b5785875293c7c2ca2">
+        <dex dex="/Users/vishng/Documents/letshare/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_70f7cc5089ed8042c3ee4f1707ca7634f97c3cab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vishng/.android/build-cache/0774fc8f021d5e582ac77ba17d40fa92656ac67d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/vishng/Documents/letshare/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c5e4586ab33c6533b5cfa555d8f9d6b809ee6f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vishng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/vishng/Documents/letshare/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_7886cae615f5ae7e8e985a42792021bdb92acffd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vishng/Documents/letshare/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vishng/Documents/letshare/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b49578ac13a4d11214a9b5432ff8b2cfa489b73e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vishng/.android/build-cache/e2d7d7ad3733167daf2e8315a1106a86677d3454/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/vishng/Documents/letshare/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f814294c6dbe66a8bfb13f874b18665bbb09b39e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vishng/.android/build-cache/694f637cd149381db85248f1ac9a5d9842add767/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/vishng/Documents/letshare/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_daec0c4fc801d3cc7af02dfb772bd03e613ba3af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vishng/.android/build-cache/174a8d424763ff9e32396149c40c95b9ca27e3f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/vishng/Documents/letshare/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6204a45b1e2050a88657d30649831cb6569c0039/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vishng/.android/build-cache/2444b773761eba85bcfd300ea679b89b04de8ef6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/vishng/Documents/letshare/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac0a6dce85e10a7f480c02d204beab1ff8f16f4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vishng/.android/build-cache/fba01a20d2395607eb2ebbdd47cc1befc2d4fb03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/vishng/Documents/letshare/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1174d720aabf29c8a9e054c7f6af6db7b5917630/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vishng/.android/build-cache/af3d93507bfbb67e909720d9550c5efc0fc89010/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/vishng/Documents/letshare/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ef208c4c7f75197d160074dda3264932bfce156/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vishng/.android/build-cache/d827e7dd4c6a1c23debce4c40a22fab9e1951fc0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vishng/Documents/letshare/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b49c53acfa054b1b73a0a20446a0c4721e424d89/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">letshare</string>
+    <string name="vehicle_prompt">vehicle</string>
+    <string-array name="vehicle_arrays">
+        <item>Car</item>
+        <item>Bike</item>
+    </string-array>
+    <string name="popup">Ride Created</string>
+</resources>
+
